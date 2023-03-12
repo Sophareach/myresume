@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    text-justify: auto;
+}
+
+a:hover{
+    color: mintcream;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    padding: 0px 0px 0.5em 2em !important;
+}
+
+.css-1fv8s86 p a{
+    color:#fafafa !important;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 4rem; padding-right: 4rem;
+    background-color:#131720 ;
+    border-radius: 5px;
+}
+
+.css-1fv8s86 p a:hover{
+    background-color: #ff4b4b !important;
+}
