@@ -95,7 +95,7 @@ st.write("#")
 st.subheader("Education")
 st.write("---")
 st.write("""
-- 🎓 Highschool : American Intercon School | Graduated
+- 🎓 Highschool 123 : American Intercon School | Graduated
 - 🎓 Bachelor : SETEC Institute | Management Information System | Graduated
 - 🎓 English Beginner to Advance : Aii Langugage Center | Level 12 | Graduated
 - 🎓 English Supplement : ACE International School | Level 11B | Finished
